@@ -1,0 +1,63 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/
+[Dd]ist/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# ASP.NET Scaffolding
+Scaffolding/
+
+# Web publish folder
+Publish/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider files
+.idea/
+
+# User-specific Rider files
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Npm Packages and Node.js files (if using Node.js for front-end)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Microsoft Azure Functions
+local.settings.json
+
+# ASP.NET Core environment variables
+appsettings.Development.json
+appsettings.Production.json

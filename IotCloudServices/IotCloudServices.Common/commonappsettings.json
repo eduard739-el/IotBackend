@@ -1,0 +1,14 @@
+{
+  "JwtSettings": {
+    "SecretKey": "c82baa0c96f4ff2946dea4275e668387f4a1e8fc30a325ee59220f08ea0750ea",
+    "Issuer": "iotApp.com",
+    "Audience": "iotApp.com"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }
+}
+
